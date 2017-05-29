@@ -1,0 +1,2985 @@
+[
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "service": "CORP02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT04", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "service": "TEST04", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "CORP02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "service": "CORP02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "AUTO", 
+            "service": "UAT01", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "service": "CORP02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "DEVELOPMENT04", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "TEST01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "TEST02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "service": "UAT02", 
+            "state": false, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "service": "UAT02", 
+            "state": false, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0296AP16", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0486AP07", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0486AP07", 
+            "mode": "MANUAL", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "service": "UAT02", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0491AP12", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0491AP12", 
+            "mode": "MANUAL", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0300AP20", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "DISABLED", 
+            "service": "DAILY", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "AUTO", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "DISABLED", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "service": "TEST03", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "AUTO", 
+            "service": "UAT02", 
+            "state": true, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0490AP11", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0490AP11", 
+            "mode": "MANUAL", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0494AP15", 
+            "mode": "MANUAL", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0494AP15", 
+            "mode": "MANUAL", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0494AP15", 
+            "mode": "MANUAL", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0495AP16", 
+            "mode": "MANUAL", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0495AP16", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0495AP16", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0493AP14", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0493AP14", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0493AP14", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0493AP14", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0493AP14", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0484AP05", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0488AP09", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "service": "CORP01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "service": "CORP02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0498AP19", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0498AP19", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0498AP19", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0498AP19", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0499AP20", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0499AP20", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0499AP20", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0499AP20", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "service": "CORP01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "service": "CORP02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "MANUAL", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "MANUAL", 
+            "service": "YEAR_END", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "service": "CORP01", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "service": "CORP02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "MANUAL", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0492AP13", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0492AP13", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0492AP13", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0492AP13", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0492AP13", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }
+    ,
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "MANUAL", 
+            "service": "CORP01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "AUTO", 
+            "service": "CORP02", 
+            "state": true, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "AUTO", 
+            "service": "DAILY", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "AUTO", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "MANUAL", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "TEST01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "TEST02", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "TEST03", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "TEST04", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "TEST05", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "DISABLED", 
+            "service": "UAT01", 
+            "state": false, 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0480AP01", 
+            "mode": "MANUAL", 
+            "service": "YEAR_END", 
+            "state": false, 
+            "version": "1081"
+        }
+    ]

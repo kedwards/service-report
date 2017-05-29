@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nesbot/carbon": "^1.22",
+        "kint-php/kint": "^2.1",
+        "salsify/json-streaming-parser": "^6.0"
+    }
+}
