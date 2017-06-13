@@ -1,1481 +1,3 @@
-vpwv0286 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0286AP06", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0287 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "AUTO", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1067"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0287AP07", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0288 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1067"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0288AP08", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0285 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0285AP05", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0283 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "DISABLED", 
-            "service": "CORP01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "DISABLED", 
-            "service": "CORP02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT04", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "AUTO", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1067"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "AUTO", 
-            "service": "TEST04", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0283AP03", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0281 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "CORP01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "CORP02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT02", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "TEST03", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0281AP01", 
-            "mode": "DISABLED", 
-            "service": "CORP01", 
-            "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0284 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "DISABLED", 
-            "service": "CORP01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "DISABLED", 
-            "service": "CORP02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1067"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0284AP04", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0289 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1067"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0289AP09", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0290 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "AUTO", 
-            "service": "UAT01", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0290AP10", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0282 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "DISABLED", 
-            "service": "CORP01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "DISABLED", 
-            "service": "CORP02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "DEVELOPMENT04", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "TEST01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "TEST02", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "TEST03", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0282AP02", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0292 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0292AP12", 
-            "mode": "MANUAL", 
-            "service": "UAT02", 
-            "state": false, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0291 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0291AP11", 
-            "mode": "MANUAL", 
-            "service": "UAT02", 
-            "state": false, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0294 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0294AP14", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
 vpwv0296 | SUCCESS => {
     "changed": false, 
     "services": [
@@ -1483,348 +5,91 @@ vpwv0296 | SUCCESS => {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
-            "state": true, 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
-            "version": "1081"
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
             "service": "TEST03", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
             "service": "UAT01", 
             "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0296AP16", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
             "service": "UAT02", 
             "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0295 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0295AP15", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0486 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0486AP07", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0486AP07", 
-            "mode": "MANUAL", 
-            "service": "PRODUCTION", 
-            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0298 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "MANUAL", 
-            "service": "TEST03", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0298AP18", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-vpwv0293 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "DISABLED", 
-            "service": "DAILY", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "AUTO", 
-            "service": "DAILYDEV", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "DISABLED", 
-            "service": "PRODUCTION", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "DISABLED", 
-            "service": "QUARTER_END", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0293AP13", 
-            "mode": "MANUAL", 
-            "service": "UAT02", 
-            "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
 vpwv0297 | SUCCESS => {
     "changed": false, 
@@ -1833,90 +98,184 @@ vpwv0297 | SUCCESS => {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0297AP17", 
-            "mode": "MANUAL", 
-            "service": "TEST03", 
-            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0297AP17", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
             "service": "UAT01", 
             "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0297AP17", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
             "service": "UAT02", 
             "state": true, 
-            "version": "1081"
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-ewwv0491 | SUCCESS => {
+vpwv0298 | SUCCESS => {
     "changed": false, 
     "services": [
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0491AP12", 
-            "mode": "AUTO", 
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
-            "state": true, 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0491AP12", 
-            "mode": "MANUAL", 
-            "service": "PRODUCTION", 
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0298AP18", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
 vpwv0300 | SUCCESS => {
     "changed": false, 
@@ -1925,412 +284,1248 @@ vpwv0300 | SUCCESS => {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
-            "mode": "MANUAL", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
             "service": "DEVELOPMENT05", 
-            "state": false, 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
-            "version": "1081"
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
             "service": "TEST03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
             "service": "UAT01", 
             "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
             "host": "VPWV0300AP20", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
             "service": "UAT02", 
             "state": true, 
-            "version": "1081"
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-vpwv0299 | SUCCESS => {
+vpwv0290 | SUCCESS => {
     "changed": false, 
     "services": [
         {
             "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
+            "host": "VPWV0290AP10", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": false, 
-            "version": "1115"
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
+            "host": "VPWV0290AP10", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
+            "host": "VPWV0290AP10", 
             "mode": "MANUAL", 
-            "service": "DEVELOPMENT05", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
             "state": false, 
-            "version": "1081"
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
         }, 
         {
             "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
-            "mode": "MANUAL", 
-            "service": "TEST01", 
-            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
             "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
-            "mode": "MANUAL", 
-            "service": "TEST02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
-            "mode": "MANUAL", 
-            "service": "TEST03", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
-            "mode": "MANUAL", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "TORONTO", 
-            "host": "VPWV0299AP19", 
-            "mode": "AUTO", 
-            "service": "UAT02", 
-            "state": true, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0490 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0490AP11", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0490AP11", 
-            "mode": "MANUAL", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0497 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0497AP18", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0497AP18", 
+            "host": "VPWV0290AP10", 
             "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0497AP18", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0494 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0494AP15", 
-            "mode": "MANUAL", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0494AP15", 
-            "mode": "MANUAL", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0494AP15", 
-            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
             "service": "QUARTER_END", 
             "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0485 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0485AP06", 
-            "mode": "DISABLED", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0496 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0496AP17", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0496AP17", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0496AP17", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0495 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0495AP16", 
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
             "mode": "MANUAL", 
-            "service": "DAILY", 
-            "state": true, 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0495AP16", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0495AP16", 
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
             "mode": "AUTO", 
-            "service": "PRODUCTION", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0290AP10", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-ewwv0487 | SUCCESS => {
+vpwv0287 | SUCCESS => {
     "changed": false, 
     "services": [
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
             "mode": "DISABLED", 
-            "service": "DAILYDEV", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
             "service": "DEVELOPMENT03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
-            "mode": "AUTO", 
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
-            "state": true, 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0487AP08", 
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0287AP07", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0284 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0284AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0291 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0291AP11", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0281 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0281AP01", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
             "version": "1081"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
+}
+vpwv0286 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0286AP06", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0282 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0282AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:26 AM", 
+            "version": "1115"
+        }
+    ]
 }
 ewwv0493 | SUCCESS => {
     "changed": false, 
@@ -2339,44 +1534,298 @@ ewwv0493 | SUCCESS => {
             "dc": "EDMONTON", 
             "host": "EWWV0493AP14", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0493AP14", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0493AP14", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0493AP14", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0493AP14", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
+}
+ewwv0496 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0496AP17", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+ewwv0486 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0486AP07", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0486AP07", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+ewwv0487 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0487AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+vpwv0299 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0299AP19", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
 }
 ewwv0484 | SUCCESS => {
     "changed": false, 
@@ -2385,300 +1834,293 @@ ewwv0484 | SUCCESS => {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
             "service": "DEVELOPMENT03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0484AP05", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-ewwv0488 | SUCCESS => {
+ewwv0494 | SUCCESS => {
     "changed": false, 
     "services": [
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "AUTO", 
+            "host": "EWWV0494AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
+            "host": "EWWV0494AP15", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
+            "host": "EWWV0494AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+ewwv0491 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0491AP12", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0491AP12", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0285 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
-            "version": "1081"
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "AUTO", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0488AP09", 
-            "mode": "DISABLED", 
-            "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0489 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
             "mode": "DISABLED", 
-            "service": "DAILYDEV", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0489AP10", 
-            "mode": "DISABLED", 
-            "service": "UAT01", 
-            "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0483 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "AUTO", 
-            "service": "CORP01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "AUTO", 
-            "service": "CORP02", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
-            "version": "1115"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0483AP04", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
             "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
-}
-ewwv0498 | SUCCESS => {
-    "changed": false, 
-    "services": [
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0498AP19", 
-            "mode": "AUTO", 
-            "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0498AP19", 
-            "mode": "DISABLED", 
-            "service": "DAILYDEV", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0498AP19", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0498AP19", 
+            "dc": "TORONTO", 
+            "host": "VPWV0285AP05", 
             "mode": "AUTO", 
-            "service": "PRODUCTION", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
 ewwv0499 | SUCCESS => {
     "changed": false, 
@@ -2687,304 +2129,468 @@ ewwv0499 | SUCCESS => {
             "dc": "EDMONTON", 
             "host": "EWWV0499AP20", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0499AP20", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0499AP20", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
             "service": "DEVELOPMENT05", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0499AP20", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-ewwv0481 | SUCCESS => {
+ewwv0498 | SUCCESS => {
     "changed": false, 
     "services": [
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "host": "EWWV0498AP19", 
             "mode": "AUTO", 
-            "service": "CORP01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "AUTO", 
-            "service": "CORP02", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "host": "EWWV0498AP19", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "host": "EWWV0498AP19", 
             "mode": "DISABLED", 
-            "service": "DEVELOPMENT01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
             "service": "DEVELOPMENT05", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "host": "EWWV0498AP19", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0293 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
             "service": "QUARTER_END", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
-            "version": "1081"
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
         }, 
         {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "TEST03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "TEST04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
-            "mode": "DISABLED", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0481AP02", 
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
             "mode": "MANUAL", 
-            "service": "YEAR_END", 
-            "state": false, 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0293AP13", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
 }
-ewwv0482 | SUCCESS => {
+ewwv0488 | SUCCESS => {
     "changed": false, 
     "services": [
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
+            "host": "EWWV0488AP09", 
             "mode": "AUTO", 
-            "service": "CORP01", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "AUTO", 
-            "service": "CORP02", 
-            "state": true, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
+            "host": "EWWV0488AP09", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT01", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT02", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT03", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT04", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "DEVELOPMENT05", 
-            "state": false, 
-            "version": "1081"
-        }, 
-        {
-            "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "AUTO", 
-            "service": "PRODUCTION", 
-            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "MANUAL", 
-            "service": "QUARTER_END", 
+            "host": "EWWV0488AP09", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
+            "host": "EWWV0488AP09", 
             "mode": "DISABLED", 
-            "service": "TEST01", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "TEST03", 
-            "state": false, 
-            "version": "1081"
+            "host": "EWWV0488AP09", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
+            "host": "EWWV0488AP09", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+ewwv0495 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0495AP16", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0495AP16", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
-            "host": "EWWV0482AP03", 
-            "mode": "DISABLED", 
-            "service": "TEST05", 
-            "state": false, 
-            "version": "1081"
+            "host": "EWWV0495AP16", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
+}
+vpwv0289 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0289AP09", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
 }
 ewwv0492 | SUCCESS => {
     "changed": false, 
@@ -2993,44 +2599,687 @@ ewwv0492 | SUCCESS => {
             "dc": "EDMONTON", 
             "host": "EWWV0492AP13", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0492AP13", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0492AP13", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0492AP13", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0492AP13", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
+}
+ewwv0485 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0485AP06", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+ewwv0489 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0489AP10", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+vpwv0292 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0292AP12", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+ewwv0483 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0483AP04", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+ewwv0497 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0497AP18", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+ewwv0482 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0482AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+ewwv0490 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0490AP11", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0490AP11", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
 }
 ewwv0480 | SUCCESS => {
     "changed": false, 
@@ -3039,146 +3288,961 @@ ewwv0480 | SUCCESS => {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
             "service": "CORP01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
             "service": "CORP02", 
             "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
             "service": "DAILY", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
             "service": "DAILYDEV", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development01", 
             "service": "DEVELOPMENT01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development02", 
             "service": "DEVELOPMENT02", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
             "service": "DEVELOPMENT03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
             "service": "DEVELOPMENT04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
             "service": "DEVELOPMENT05", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
             "service": "PRODUCTION", 
             "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1115"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
             "service": "QUARTER_END", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
             "service": "TEST01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test02", 
             "service": "TEST02", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test03", 
             "service": "TEST03", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
             "service": "TEST04", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test05", 
             "service": "TEST05", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
             "service": "UAT01", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }, 
         {
             "dc": "EDMONTON", 
             "host": "EWWV0480AP01", 
             "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Year_End", 
             "service": "YEAR_END", 
             "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
             "version": "1081"
         }
-    ], 
-    "updated": "5/29/2017 11:51 AM"
+    ]
+}
+vpwv0288 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0288AP08", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0283 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": true, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1067"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0283AP03", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+vpwv0294 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0294AP14", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
+}
+ewwv0481 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp01", 
+            "service": "CORP01", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Corp02", 
+            "service": "CORP02", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development01", 
+            "service": "DEVELOPMENT01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development02", 
+            "service": "DEVELOPMENT02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development03", 
+            "service": "DEVELOPMENT03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Development05", 
+            "service": "DEVELOPMENT05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test03", 
+            "service": "TEST03", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "EDMONTON", 
+            "host": "EWWV0481AP02", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Year_End", 
+            "service": "YEAR_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }
+    ]
+}
+vpwv0295 | SUCCESS => {
+    "changed": false, 
+    "services": [
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Daily", 
+            "service": "DAILY", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_DailyDev", 
+            "service": "DAILYDEV", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Development04", 
+            "service": "DEVELOPMENT04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Production", 
+            "service": "PRODUCTION", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "DISABLED", 
+            "nt_svc": "OpenLink_Endur_Quarter_End", 
+            "service": "QUARTER_END", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test01", 
+            "service": "TEST01", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test02", 
+            "service": "TEST02", 
+            "state": false, 
+            "svc_exe": "1067", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test04", 
+            "service": "TEST04", 
+            "state": false, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_Test05", 
+            "service": "TEST05", 
+            "state": true, 
+            "svc_exe": "1081", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1081"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "MANUAL", 
+            "nt_svc": "OpenLink_Endur_UAT01", 
+            "service": "UAT01", 
+            "state": false, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }, 
+        {
+            "dc": "TORONTO", 
+            "host": "VPWV0295AP15", 
+            "mode": "AUTO", 
+            "nt_svc": "OpenLink_Endur_UAT02", 
+            "service": "UAT02", 
+            "state": true, 
+            "svc_exe": "1115", 
+            "updated": "6/13/2017 9:27 AM", 
+            "version": "1115"
+        }
+    ]
 }

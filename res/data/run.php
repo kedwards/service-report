@@ -1,6 +1,6 @@
 <?php
-$file = file_get_contents('./services_status_raw.json');
-$newfile = './services_status.json';
+$file = file_get_contents(realpath(dirname(__FILE__)) . '/services_status_raw.json');
+$newfile = realpath(dirname(__FILE__)) . '/services_status.json';
 
 $regexp = '@(?<=\[)[^\]]+(?=\])@';
 preg_match_all($regexp, $file, $keys);
