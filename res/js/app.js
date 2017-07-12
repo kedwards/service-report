@@ -26,11 +26,16 @@
 			"mode": "DISABLED-TEST",
 			"service": "PRODUCTION-TEST",
 			"state": true,
-			"version": "1081-TEST"
+			"svc_exe": "D:\\Openlink\\Endur\\V14_0_08082015ENB_12212015_1081\\bin.win64\\master.exe",
+			"version": "1081-TEST",
+			"updated": "6/5/2017 4:21 PM",
 		}
 	];
 
-	var data_url = location.protocol + '//' + location.host + location.pathname + 'res/data/services_status.json';
+	var data_url = location.protocol + '//' + location.host + '/res/data/services_status.json';
+	
+	windows.alert(location.host)
+	console.log( "Request: " + data_url );
 	
 	$.getJSON(data_url)
 		.done(function(data) {
@@ -51,7 +56,9 @@
 					{title:'Service', field:'service', sorter:'string', align:'center', headerFilter:true},
 					{title:'State', field:'state', sorter:'string', align:'center', formatter:'tickCross', headerFilter:true},
 					{title:'Version', field:'version', sorter:'number', align:'center', headerFilter:true},
+					{title:'Svc Version', field:'svc_exe', sorter:'string', align:'center', headerFilter:true},
 					{title:'Mode', field:'mode', sorter:'string', align:'center', headerFilter:true},
+					{title:'Updated', field:'updated', sorter:'string', align:'center', headerFilter:true},
 				]
 			});
 

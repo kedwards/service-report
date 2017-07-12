@@ -27,7 +27,7 @@
 		$today->hour = 24;
 	}
 	
-	/*
+	
 	$file = dirname(dirname(__FILE__)) . '../data/services_status.json';
 	
 	$listener = new InMemoryListener();
@@ -42,4 +42,4 @@
 	}
 
 	//exit(d($today, $listener->getJson()));
-	*/
+	
