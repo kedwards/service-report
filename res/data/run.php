@@ -6,14 +6,5 @@ $regexp = '@(?<=\[)[^\]]+(?=\])@';
 preg_match_all($regexp, $file, $keys);
 $keys = array_unique($keys);
 
-$str = '[';
-
-/*
-for($i = 0; $i < count($keys[0]); $i++) {
-	$str .= $keys[0][$i] . ',';
-}
-*/
-$str .= implode(',', $keys[0]);
-
-$str .= ']';
+$str = '[' . implode(',', $keys[0]) . ']';
 file_put_contents($newfile, $str);
