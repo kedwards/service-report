@@ -32,7 +32,7 @@
 		}
 	];
 
-	var data_url = location.protocol + '//' + location.host + '/res/data/services_status.json';
+	var data_url = location.protocol + '//' + location.host + location.pathname + '/res/data/services_status.json';
 	
 	windows.alert(location.host)
 	console.log( "Request: " + data_url );
