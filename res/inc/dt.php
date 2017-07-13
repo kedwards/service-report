@@ -5,32 +5,13 @@
 	use JsonStreamingParser\Parser;
 	
 	$messg = 'Below are the results for Openlink Application Server Services.'; 
+	$file = dirname(dirname(__FILE__)) . '\data\services_status.json';
+
+	$stat = stat($file);
+	$today = Carbon::createFromTimestamp($stat['mtime']);
 	
-	$today = Carbon::now();
-	if ($today->hour > 0 && $today->hour < 4) {
-		$today->hour = 0;
-		$today->minute = 0;
-	} else if ($today->hour > 4 && $today->hour < 8) {
-		$today->hour = 4;
-		$today->minute = 0;
-	} else if ($today->hour > 8 && $today->hour < 12) {
-		$today->hour = 8;
-		$today->minute = 0;
-	} else if ($today->hour > 12 && $today->hour < 16) {
-		$today->hour = 12;
-		$today->minute = 0;
-	} else if ($today->hour > 12 && $today->hour < 16) {
-		$today->hour = 16;
-	} else if ($today->hour > 16 && $today->hour < 20) {
-		$today->hour = 20;
-	} else if ($today->hour > 20 && $today->hour < 24) {
-		$today->hour = 24;
-	}
-	
-	
-	$file = dirname(dirname(__FILE__)) . '../data/services_status.json';
-	
-	$listener = new InMemoryListener();
+	/*
+    $listener = new InMemoryListener();
 	$stream = fopen($file, 'r');
 	try {
 		$parser = new Parser($stream, $listener);
@@ -40,6 +21,7 @@
 		fclose($stream);
 		throw $e;
 	}
-
+    */
+    
 	//exit(d($today, $listener->getJson()));
 	
