@@ -17,6 +17,12 @@
 			return ['DAILY', 'PRODUCTION'].indexOf(data.service) > -1 && data.state == true;
 		}
 	}
+    
+    function ServiceMismatch(data){
+	    if ((data.svc_exe !== data.version) && (data.state == true)){
+	    	return true;
+	    }
+	}
 	
 	// Sample data
 	var testdata = [
@@ -47,6 +53,8 @@
 				rowFormatter:function(row, data){
 					if((data.dc == "TORONTO" && ['DAILY', 'PRODUCTION'].indexOf(data.service) > -1 && data.state) || (data.dc == "EDMONTON" && ['DAILY', 'PRODUCTION', 'CORP01', 'CORP02'].indexOf(data.service) == -1 && data.state)) {
 						row.css({"background-color":"#FF0000"});
+					} else if ((data.svc_exe !== data.version)) {
+					    row.css({"background-color":"#FFB718"});
 					}
 				},
 				columns:[
@@ -58,7 +66,6 @@
 					{title:'Version', field:'version', sorter:'number', align:'center', headerFilter:true},
 					{title:'Svc Version', field:'svc_exe', sorter:'string', align:'center', headerFilter:true},
 					{title:'Mode', field:'mode', sorter:'string', align:'center', headerFilter:true},
-					{title:'Updated', field:'updated', sorter:'string', align:'center', headerFilter:true},
 				]
 			});
 
@@ -82,6 +89,9 @@
 				break;
 			case 'err':
 				$("#report_data").tabulator("setFilter", errorService);
+				break;
+            case 'mis':
+				$("#report_data").tabulator("setFilter", ServiceMismatch);
 				break;
 			default:
 		}

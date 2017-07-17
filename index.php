@@ -41,6 +41,7 @@
 								<li><button class="filter" id="edm" type="button">Edmonton</button></li>
 								<li><button class="filter" id="tor" type="button">Toronto</button></li>
 								<li><button class="filter" id="err" type="button">Error State</button></li>
+                                <li><button class="filter" id="mis" type="button">Svc Mismatch</button></li>
 								<li><button class="filter" id="clr" type="button">Clear Filter</button></li>
 							</ul>
 						</p>
